@@ -46,7 +46,7 @@ Es un tipo de dato para almacenar números en coma flotante con doble precisión
 
 ### boolean
 
-Sirve para definir tipos de datos booleanos. Es decir, aquellos que tienen un valor de true o false. Ocupa 1 bit de información.
+Sirve para definir tipos de datos booleanos. Es decir, aquellos que tienen un valor de true(cierto) o false(falso). Ocupa 1 bit de información.
 
 ### char
 
